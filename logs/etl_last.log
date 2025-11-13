@@ -1,0 +1,7 @@
+2025-11-13 10:42:05,629 INFO ETL starting
+2025-11-13 10:42:05,629 INFO Requesting CoinGecko: ids=['bitcoin', 'ethereum'] vs_currency=usd
+2025-11-13 10:42:06,779 INFO Saved raw JSON to data/raw_coingecko_20251113T104206Z.json (records=2)
+2025-11-13 10:42:06,975 INFO Transformed rows=2
+Upserted 2 rows into crypto_price_snapshots.
+2025-11-13 10:42:08,526 INFO Load complete
+2025-11-13 10:42:08,527 INFO ETL finished successfully
